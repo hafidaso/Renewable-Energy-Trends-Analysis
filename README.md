@@ -6,7 +6,7 @@ This project analyzes global renewable energy trends using a comprehensive datas
 
 ## 🎯 Mission
 
-As a data analyst at NextEra Energy, the mission is to explore multi-dimensional renewable energy data and uncover powerful insights about global trends. The analysis addresses key questions such as:
+As a data analyst, the mission is to explore multi-dimensional renewable energy data and uncover powerful insights about global trends. The analysis addresses key questions such as:
 - Which regions are investing most efficiently in renewables?
 - How do economic, environmental, and policy factors relate to production levels?
 - What drives successful renewable energy adoption across different countries?
